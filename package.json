@@ -1,0 +1,32 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "aprendienso npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andres-PeMu/npm.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "node",
+    "package"
+  ],
+  "author": "Felipe Peña",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andres-PeMu/npm/issues"
+  },
+  "homepage": "https://github.com/Andres-PeMu/npm#readme",
+  "dependencies": {
+    "date-fns": "^2.26.0",
+    "moment": "^2.29.1",
+    "webpack": "^5.64.4"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.3.0"
+  }
+}
